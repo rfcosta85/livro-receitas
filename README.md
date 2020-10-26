@@ -1,3 +1,7 @@
-#Livro de receitas :man cook:
+<h1>Livro de receitas</h1>
 Olá! Bem vindo ao meu livro de receitas :wave:
- - Strognoff de frango
+<ul>
+ 
+ <li> Strognoff de frango </li>
+ 
+ </ul>
